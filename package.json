@@ -1,0 +1,17 @@
+{
+  "name": "testing-automation-exercise-master",
+  "version": "1.0.0",
+  "description": "We want to test the interaction of a client and a server app.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
